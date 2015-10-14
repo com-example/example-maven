@@ -66,4 +66,8 @@
     </dependency>
   </dependencies>
 
+  <scm>
+      <connection>scm:git:https://github.com/com-example/example-maven.git</connection>
+  </scm>
+
 </project>
