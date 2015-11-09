@@ -4,7 +4,7 @@
   <groupId>com.example</groupId>
   <artifactId>example-maven</artifactId>
   <packaging>jar</packaging>
-  <version>0.1.7</version>
+  <version>0.1.8-SNAPSHOT</version>
   <name>example-maven</name>
 
   <build>
@@ -84,7 +84,7 @@
   <scm>
     <connection>scm:git:https://github.com/com-example/example-maven.git</connection>
     <developerConnection>scm:git:git@github.com:com-example/example-maven.git</developerConnection>
-    <tag>example-maven-0.1.7</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <distributionManagement>
