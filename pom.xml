@@ -82,9 +82,9 @@
   </dependencies>
 
   <scm>
-    <connection>scm:git:https://github.com/com-example/example-maven.git</connection>
+    <connection>scm:git:git@github.com:com-example/example-maven.git</connection>
     <developerConnection>scm:git:git@github.com:com-example/example-maven.git</developerConnection>
-    <tag>HEAD</tag>
+    <url>git@github.com:com-example/example-maven.git</url>
   </scm>
 
   <distributionManagement>
